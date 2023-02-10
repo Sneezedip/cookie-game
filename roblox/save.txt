@@ -1,5 +1,0 @@
-Clicks:0
-Upgradex:0
-CPS:0
-Upgrade 1 Price:15
-Upgrade 2 Price:25
