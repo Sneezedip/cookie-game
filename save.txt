@@ -1,5 +1,5 @@
-Clicks:29
-Upgradex:0
-CPS:0
-Upgrade 1 Price:15
-Upgrade 2 Price:25
+Clicks:627
+Upgradex:23
+CPS:13
+Upgrade 1 Price:2688
+Upgrade 2 Price:3083
